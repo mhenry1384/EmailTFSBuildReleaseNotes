@@ -1,3 +1,5 @@
+ - `raw.githubusercontent.com/mhenry1384/EmailTFSBuildReleaseNotes/master/EmailExample.png?sanitize=true&raw=true`
+ 
 Works with
 https://marketplace.visualstudio.com/items?itemName=richardfennellBM.BM-VSTS-GenerateReleaseNotes-Task to generate and email out build release notes.
 
