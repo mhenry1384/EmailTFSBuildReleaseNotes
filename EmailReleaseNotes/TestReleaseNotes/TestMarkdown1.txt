@@ -1,0 +1,17 @@
+# Release notes for build Continuous  
+**Build Number**  : 20170616.002    
+**Build started** : 16/06/17 13:58:59  
+**Source Branch** : refs/heads/continuous  
+  
+### Associated work items  
+* **Product Backlog Item 58774** [Assigned to: Bill Cunnien <DEARBORN\bcunnien>] Video [link](http://db-tfs01:8080/tfs/web/wi.aspx?pcguid=855b64fe-f666-4a4e-91f3-539bfc47ff09&id=58774)
+  
+### Associated commits  
+* **ID 76f1fa95e4f8ed4994fec7b63ccc9adc6196db84** [Paul Hopper] PR 1868: add run interactive method to datafeed; add youtube settings;  add videotile
+
+ - add run interactive method to datafeed; add youtube settings;  add videotile
+
+Related work items: #58774 [link](http://db-tfs01:8080/tfs/DefaultCollection/AllyBank%20(MSVS%20Scrum)/_git/AllyBank/commit/76f1fa95e4f8ed4994fec7b63ccc9adc6196db84)    
+* **ID f400a895e2498345d3d64f252cda16172d5eee9b** [Bill Cunnien] add run interactive method to datafeed; add youtube settings;  add videotile control;
+
+Related Work Items: #58774 [link](http://db-tfs01:8080/tfs/DefaultCollection/AllyBank%20(MSVS%20Scrum)/_git/AllyBank/commit/f400a895e2498345d3d64f252cda16172d5eee9b)    

@@ -1,0 +1,12 @@
+# Release notes for build Nightly  
+**Build Number**  : 20170719.082330    
+**Build started** : 19/07/17 08:23:33  
+**Source Branch** : refs/heads/nightly  
+  
+### Associated work items  
+  
+### Associated commits  
+* **ID 0e2cd8c75e43fa7f5253470327c853087b0808b0** [Jeffrey Kaberline | 2017-07-19 08:23 AM] PR 1957: test
+
+ - test [link](http://db-tfs01:8080/tfs/DefaultCollection/_git/UAW%20(Scrum)/commit/0e2cd8c75e43fa7f5253470327c853087b0808b0)    
+* **ID a60bc84c472368621e0243115dde477d32adc8c0** [jkaberline | 2017-07-19 08:22 AM] test [link](http://db-tfs01:8080/tfs/DefaultCollection/_git/UAW%20(Scrum)/commit/a60bc84c472368621e0243115dde477d32adc8c0)    
